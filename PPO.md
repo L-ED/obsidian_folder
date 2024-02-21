@@ -24,3 +24,16 @@ $$
 $$
 L_t^{vf} = (V_{\theta}(s_t)-V_t^{targ})^2
 $$
+One style of policy gradient implementation, popularized in [Mni+16] and well-suited for use with recurrent neural networks, runs the policy for T timesteps (where T is much less than the episode length), and uses the collected samples for an update. This style requires an advantage estimator that does not look beyond timestep T. The estimator used by [Mni+16] is
+$$
+\hat{A_t} = -V(S_t)+r_t+\gamma r_{t+1} +\gamma^{T-t+1}r_{T+1}+\gamma^{T-t}V(s_{T})
+$$
+
+can be changed to
+$$
+\hat{A_t} = \delta_t + \gamma\lambda\delta_{t+1}+...+(\gamma\lambda)^{T-t+1}\delta_{T-1}
+$$
+where
+$$
+
+$$
