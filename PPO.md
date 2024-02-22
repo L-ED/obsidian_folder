@@ -31,9 +31,9 @@ $$
 
 can be changed to
 $$
-\hat{A_t} = \delta_t + \gamma\lambda\delta_{t+1}+...+(\gamma\lambda)^{T-t+1}\delta_{T-1}
+\hat{A_t} = \delta_t + \gamma\lambda\delta_{t+1}+...+(\gamma\lambda)^{T-t+1}\delta_{T-1}, \quad \lambda=1
 $$
 where
 $$
-
+\delta_t = r_t + \gamma V(S_{t+1}) - V(S_{t})
 $$
