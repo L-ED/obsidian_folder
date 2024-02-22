@@ -52,14 +52,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relevant Notes.md",
+                "file": "RL Relevant Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a76e430b5e625c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quaternions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relevant Notes.md",
+                "file": "Quaternions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relevant Notes.md",
+                "file": "Quaternions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relevant Notes.md"
+                "file": "Quaternions.md"
               }
             }
           }
@@ -186,10 +198,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "324eb41be37b33a0",
+  "active": "a76e430b5e625c0f",
   "lastOpenFiles": [
+    "RL Relevant Notes.md",
+    "Quaternions.md",
     "RL.canvas",
-    "Relevant Notes.md",
     "PPO.md",
     "obsidian_folder/VLM.canvas",
     "obsidian_folder/RL.canvas",
