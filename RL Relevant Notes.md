@@ -13,7 +13,6 @@ https://amreis.github.io/
 openai baselines
 https://github.com/openai/baselines/tree/master
 
-
 GAE paper
 https://arxiv.org/pdf/1506.02438.pdf
 
