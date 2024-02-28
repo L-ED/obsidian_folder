@@ -40,38 +40,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PPO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "324eb41be37b33a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "RL Relevant Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a76e430b5e625c0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quaternions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quaternions.md",
+                "file": "RL Relevant Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quaternions.md",
+                "file": "RL Relevant Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quaternions.md"
+                "file": "RL Relevant Notes.md"
               }
             }
           }
@@ -198,12 +174,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a76e430b5e625c0f",
+  "active": "873171478bac9343",
   "lastOpenFiles": [
+    "PPO.md",
     "RL Relevant Notes.md",
     "Quaternions.md",
-    "RL.canvas",
-    "PPO.md",
     "obsidian_folder/VLM.canvas",
     "obsidian_folder/RL.canvas",
     "obsidian_folder/PPO.md",
@@ -213,6 +188,7 @@
     "obsidian_folder/readme.md",
     "obsidian_folder",
     "obsidian",
+    "RL.canvas",
     "VLM.canvas",
     "CLIP.md",
     "Computer vision.md"
