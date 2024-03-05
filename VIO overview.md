@@ -7,4 +7,8 @@ Different methods can be used for measurement uncertainty. Extended Kalman Filte
 
 Filtering 
 
-Efficient because of estimating only last state. Classic approach estimate pose and landmarks in state and filter complexity grows quadratically in the number of landmarks
+Efficient because of estimating only last state. Classic approach estimate pose and landmarks in state and filter complexity grows quadratically in the number of landmarks. An alternative is to adopt a structureless approach where landmark positions are marginalized out of the state vector (see, for instance, the Multi-State Constraint Kalman filter (MSCKF) (Mourikis and Roumeliotis 2007)).  Structureless filter waits until all landmark measurements are obtained, so filter cant use all information. Drawbacks are in filter structure. It uses old states for latest state estimation so outliers are locked in filter state. Second, estimation on wrong states adds information to unobservable directions: yaw and global position. To address this problem, the first-estimates jacobian approach (Huang et al 2008) is often adopted to ensures that a state is not updated with different linearization points, which is a source of inconsistency. 
+
+Sliding window 
+
+More accurate than filtering because they relinearize some number of measurements on estimate update and robust to outliers due to rejection after linearization or robust cost functions (Hartley and Zisserman 2003). Similar to filters, can suffer from inconsistency (Hesch et al 2014; Dong-Si and Mourikis 2011; Huang et al 2011). 
