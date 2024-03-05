@@ -1,4 +1,7 @@
 
+Slam methods overview
+https://www.ifi.uzh.ch/en/rpg/research/research_vo.html#:~:text=Visual%2DInertial%20odometry%20(VIO),(IMUs)%20attached%20to%20it.
+
 https://github.com/rpng
 https://github.com/rpng/suo_slam/tree/main
 
