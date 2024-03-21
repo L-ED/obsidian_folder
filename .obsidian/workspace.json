@@ -23,9 +23,36 @@
             "id": "34a1c9de616ee8ee",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "RL.canvas",
+                "viewState": {
+                  "x": 306.11111745834353,
+                  "y": 187.6806774397926,
+                  "zoom": -1.5
+                }
+              }
+            }
+          },
+          {
+            "id": "ba7c64e84cc7b004",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "VIO overview.md",
+                "file": "Learning to Walk in Minutes Using MassivelyParallel Deep Reinforcement Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18573447857bf6d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Walk these ways.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIO overview.md",
+                "file": "RL.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIO overview.md",
+                "file": "RL.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIO overview.md"
+                "file": "RL.canvas"
               }
             }
           }
@@ -161,12 +188,18 @@
   },
   "active": "34a1c9de616ee8ee",
   "lastOpenFiles": [
-    "RL Relevant Notes.md",
+    "Learning to Walk in Minutes Using MassivelyParallel Deep Reinforcement Learning.md",
+    "Screenshot from 2024-03-20 18-19-23.png",
+    "Screenshot from 2024-03-20 18-18-57.png",
+    "Screenshot from 2024-03-20 18-19-34.png",
+    "RL.canvas",
+    "Walk these ways.md",
     "VIO overview.md",
+    "Untitled.canvas",
+    "RL Relevant Notes.md",
     "SLAM notes.md",
     "Computer vision.md",
     "Quaternions.md",
-    "RL.canvas",
     "PPO.md",
     "obsidian_folder/VLM.canvas",
     "obsidian_folder/RL.canvas",
