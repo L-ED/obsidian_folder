@@ -38,9 +38,11 @@
             "id": "74b959cf93054329",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Screenshot from 2024-03-20 18-19-34.png"
+                "file": "Walk these ways.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -135,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Screenshot from 2024-03-20 18-19-34.png",
+                "file": "Walk these ways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Screenshot from 2024-03-20 18-19-34.png",
+                "file": "Walk these ways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Screenshot from 2024-03-20 18-19-34.png"
+                "file": "Walk these ways.md"
               }
             }
           }
@@ -199,14 +201,14 @@
   "active": "74b959cf93054329",
   "lastOpenFiles": [
     "Learning to Walk in Minutes Using MassivelyParallel Deep Reinforcement Learning.md",
+    "RL Relevant Notes.md",
+    "Screenshot from 2024-03-20 18-19-34.png",
     "Screenshot from 2024-03-20 18-19-23.png",
     "Screenshot from 2024-03-20 18-18-57.png",
-    "Screenshot from 2024-03-20 18-19-34.png",
     "RL.canvas",
     "Walk these ways.md",
     "VIO overview.md",
     "Untitled.canvas",
-    "RL Relevant Notes.md",
     "SLAM notes.md",
     "Computer vision.md",
     "Quaternions.md",
