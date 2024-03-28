@@ -35,6 +35,16 @@
             }
           },
           {
+            "id": "74b959cf93054329",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Screenshot from 2024-03-20 18-19-34.png"
+              }
+            }
+          },
+          {
             "id": "ba7c64e84cc7b004",
             "type": "leaf",
             "state": {
@@ -59,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RL.canvas",
+                "file": "Screenshot from 2024-03-20 18-19-34.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RL.canvas",
+                "file": "Screenshot from 2024-03-20 18-19-34.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RL.canvas"
+                "file": "Screenshot from 2024-03-20 18-19-34.png"
               }
             }
           }
@@ -186,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34a1c9de616ee8ee",
+  "active": "74b959cf93054329",
   "lastOpenFiles": [
     "Learning to Walk in Minutes Using MassivelyParallel Deep Reinforcement Learning.md",
     "Screenshot from 2024-03-20 18-19-23.png",
