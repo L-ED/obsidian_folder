@@ -56,12 +56,14 @@
             "id": "e1ada3feb4a18ad4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.7"
+                "file": "VIO overview.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "icon": "lucide-file",
+              "title": "VIO overview"
             }
           },
           {
@@ -171,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VIO overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VIO overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -217,6 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "VIO overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -245,16 +250,16 @@
   },
   "active": "e1ada3feb4a18ad4",
   "lastOpenFiles": [
+    "SLAM notes.md",
+    "Screenshot from 2024-03-20 18-19-23.png",
+    "Screenshot from 2024-03-20 18-18-57.png",
     "Learning to Walk in Minutes Using MassivelyParallel Deep Reinforcement Learning.md",
     "RL Relevant Notes.md",
     "Screenshot from 2024-03-20 18-19-34.png",
-    "Screenshot from 2024-03-20 18-19-23.png",
-    "Screenshot from 2024-03-20 18-18-57.png",
     "RL.canvas",
     "Walk these ways.md",
     "VIO overview.md",
     "Untitled.canvas",
-    "SLAM notes.md",
     "Computer vision.md",
     "Quaternions.md",
     "PPO.md",
