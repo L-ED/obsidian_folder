@@ -72,12 +72,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BFM/BFM-Zero losses.md",
+                "file": "BFM/FB-CPR related work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BFM-Zero losses"
+              "title": "FB-CPR related work"
             }
           },
           {
@@ -264,6 +264,7 @@
   },
   "active": "4a73b3d19718be1d",
   "lastOpenFiles": [
+    "BFM/BFM-Zero losses.md",
     "SLAM notes.md",
     "Screenshot from 2024-03-20 18-19-23.png",
     "Screenshot from 2024-03-20 18-18-57.png",
