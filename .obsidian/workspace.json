@@ -84,12 +84,14 @@
             "id": "a56bb50452975332",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.1"
+                "file": "BFM/FB-CPR related work.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.1"
+              "icon": "lucide-file",
+              "title": "FB-CPR related work"
             }
           },
           {

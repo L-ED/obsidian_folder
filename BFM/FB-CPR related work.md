@@ -12,12 +12,12 @@ See also [[BFM-Zero losses]] for the losses of the method these build on.
 
 # Humanoid BFM papers
 
-| Paper | Change compared to FB-CPR / BFM-Zero |
-| --- | --- |
-| **P-BFM** ([2610.15833](https://github.com/Roboparty/P-BFM/wiki), Oct 2026) | Perception. Splits control into terrain-invariant intent (FB latent) and terrain-conditioned execution from depth. **Explicit Root Instructions**: heading and planar velocity given explicitly, not only through $z$, because the latent loses precise global progress. Zero-shot on G1 with onboard depth. |
-| **Perceptive BFM** ([2606.08059](https://arxiv.org/abs/2606.08059), Jun 2026) | Adapts human motion priors to terrain with a teacher–student setup and residual correction. Tracking-based, not FB, as far as the abstract shows. |
-| **Belief-FB / Rotation-FB** ([2505.13150](https://arxiv.org/abs/2505.13150), ICLR 2026) | FB cannot tell different dynamics apart, so latent directions interfere. Belief-FB: transformer belief estimator of the dynamics. Rotation-FB: splits $z$-space into one cluster per dynamics. Up to 2x zero-shot return under changed dynamics. |
-| **Scaling BFM for Humanoids** ([2607.15163](https://arxiv.org/abs/2607.15163), Jul 2026) | Not FB (cites BFM-Zero as prior work): global-frame tracking with a Transformer. Data diversity matters more than amount; scale width and depth together. |
+| Paper                                                                                    | Change compared to FB-CPR / BFM-Zero                                                                                                                                                                                                                                                                         |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **P-BFM** ([2610.15833](https://github.com/Roboparty/P-BFM/wiki), Oct 2026)              | Perception. Splits control into terrain-invariant intent (FB latent) and terrain-conditioned execution from depth. **Explicit Root Instructions**: heading and planar velocity given explicitly, not only through $z$, because the latent loses precise global progress. Zero-shot on G1 with onboard depth. |
+| **Perceptive BFM** ([2606.08059](https://arxiv.org/abs/2606.08059), Jun 2026)            | Adapts human motion priors to terrain with a teacher–student setup and residual correction. Tracking-based, not FB, as far as the abstract shows.                                                                                                                                                            |
+| **Belief-FB / Rotation-FB** ([2505.13150](https://arxiv.org/abs/2505.13150), ICLR 2026)  | FB cannot tell different dynamics apart, so latent directions interfere. Belief-FB: transformer belief estimator of the dynamics. Rotation-FB: splits $z$-space into one cluster per dynamics. Up to 2x zero-shot return under changed dynamics.                                                             |
+| **Scaling BFM for Humanoids** ([2607.15163](https://arxiv.org/abs/2607.15163), Jul 2026) | Not FB (cites BFM-Zero as prior work): global-frame tracking with a Transformer. Data diversity matters more than amount; scale width and depth together.                                                                                                                                                    |
 
 # Changes to the FB core
 
