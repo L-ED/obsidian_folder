@@ -81,6 +81,18 @@
             }
           },
           {
+            "id": "a56bb50452975332",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
+          },
+          {
             "id": "ba7c64e84cc7b004",
             "type": "leaf",
             "state": {
@@ -109,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -262,7 +274,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a73b3d19718be1d",
+  "active": "a56bb50452975332",
   "lastOpenFiles": [
     "BFM/BFM-Zero losses.md",
     "SLAM notes.md",
